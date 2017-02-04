@@ -1,7 +1,7 @@
 About pthread-stubs
 ===================
 
-Home: http://xcb.freedesktop.org/
+Home: https://xcb.freedesktop.org/
 
 Package license: MIT
 
@@ -10,6 +10,18 @@ Feedstock license: BSD 3-Clause
 Summary: Stubs missing from libc for standard pthread functions
 
 
+
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pthread-stubs-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pthread-stubs-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pthread-stubs-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pthread-stubs-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pthread-stubs-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pthread-stubs-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pthread-stubs/badges/version.svg)](https://anaconda.org/conda-forge/pthread-stubs)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pthread-stubs/badges/downloads.svg)](https://anaconda.org/conda-forge/pthread-stubs)
 
 Installing pthread-stubs
 ========================
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `pthread-stubs` available on your 
 ```
 conda search pthread-stubs --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pthread-stubs-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pthread-stubs-feedstock)
-OSX: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pthread-stubs/badges/version.svg)](https://anaconda.org/conda-forge/pthread-stubs)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pthread-stubs/badges/downloads.svg)](https://anaconda.org/conda-forge/pthread-stubs)
 
 
 Updating pthread-stubs-feedstock
