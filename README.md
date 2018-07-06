@@ -14,14 +14,16 @@ Summary: Stubs missing from libc for standard pthread functions
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pthread-stubs-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pthread-stubs-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pthread-stubs-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pthread-stubs-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pthread-stubs-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pthread-stubs-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/pthread-stubs-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/pthread-stubs-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/pthread-stubs-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/pthread-stubs-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/pthread-stubs-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/pthread-stubs-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pthread-stubs/badges/version.svg)](https://anaconda.org/conda-forge/pthread-stubs)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pthread-stubs/badges/downloads.svg)](https://anaconda.org/conda-forge/pthread-stubs)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pthread--stubs-green.svg)](https://anaconda.org/conda-forge/pthread-stubs) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pthread-stubs.svg)](https://anaconda.org/conda-forge/pthread-stubs) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pthread-stubs.svg)](https://anaconda.org/conda-forge/pthread-stubs) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pthread-stubs.svg)](https://anaconda.org/conda-forge/pthread-stubs) |
 
 Installing pthread-stubs
 ========================
